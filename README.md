@@ -63,4 +63,4 @@ go test ./...
 
 The lowercase English word list in
 `internal/dictionary/data/words_alpha.txt` is embedded directly into the
-executable.
+executable, this list comes from [github.com/dwyl/english-words](https://github.com/dwyl/english-words).
